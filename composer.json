@@ -1,0 +1,19 @@
+{
+    "name": "edwinrtoha/laravelrouteros",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Edwinrtoha\\Laravelrouteros\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edwin Rahmad Toha",
+            "email": "edwin.rahmad.toha007@gmail.com"
+        }
+    ],
+    "require": {
+        "evilfreelancer/routeros-api-php": "1.5.4"
+    }
+}
